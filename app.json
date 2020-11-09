@@ -1,0 +1,17 @@
+{
+  "name": "thunderDown",
+  "description": "thunderDown",
+  "logo": "https://i.hizliresim.com/1UoYoT.jpg",
+  "keywords": [
+    "telegram",
+    "userbot",
+	"Asena",
+    "plugin",
+    "modular",
+    "productivity"
+  "env":{
+  "buildpacks": [{
+  {
+    "url": "heroku/php"
+  }]
+}
